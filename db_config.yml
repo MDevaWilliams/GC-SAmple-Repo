@@ -1,0 +1,5 @@
+database:
+  user: admin
+  password: MyP@ssw0rd123
+  host: localhost
+  port: 5432
